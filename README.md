@@ -10,7 +10,7 @@ Spesifikasi
 4. Framework: Transformers, TRL, PEFT
 5. Training: Google Colab T4 GPU
 
-![Uploading Grafik Training Loss.jpg…]()
+<img width="578" height="392" alt="Grafik Training Loss" src="https://github.com/user-attachments/assets/20c5b76e-9463-4591-9a6b-3e6b58fe90f5" />
 
 
 
