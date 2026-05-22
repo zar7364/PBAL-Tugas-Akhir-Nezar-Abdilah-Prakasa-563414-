@@ -1,4 +1,4 @@
-SFT LoRA on Qwen2.5-0.5B
+# SFT LoRA on Qwen2.5-0.5B
 
 Project ini melakukan Supervised Fine-Tuning (SFT) menggunakan metode LoRA pada model Qwen2.5-0.5B dengan dataset indonlp/cendol_collection_v2 
 untuk meningkatkan kemampuan instruction-following dalam Bahasa Indonesia.
